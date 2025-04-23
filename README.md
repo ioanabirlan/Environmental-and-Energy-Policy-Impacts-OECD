@@ -2,7 +2,7 @@
 
 
 
-This dataset provides comprehensive panel data (2000-2019) on various environmental and energy metrics across two regions (Europe and America) with a focus on indicators that influence CO2 emissions. It includes data from **OECD statistics** and covers variables that serve as indicators of **smart urban development** and **governmental policies**.
+This dataset was developed my me and provides comprehensive panel data (2000-2019) on various environmental and energy metrics across two regions (Europe and America) with a focus on indicators that influence CO2 emissions. It includes data from **OECD statistics** and covers variables that serve as indicators of **smart urban development** and **governmental policies**.
 
 ## About the Dataset
 
